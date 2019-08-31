@@ -1,0 +1,5 @@
+name: BlazeHeartAmplifier
+main: fun.pwsg.main.main
+version: 1.0.0
+author: NekokeCores
+depend: [ArmorEquipEvent]
